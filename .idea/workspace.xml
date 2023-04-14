@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dfe9887-13b0-462f-865a-d4a3e6fbe0c8" name="变更" comment="初次提交">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/bcprov-jdk15to18-1.73.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doumsg/EcdhCrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doumsg/EcdhKeyAgreementSpi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doumsg/EcdhKeyFactorySpi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doumsg/HexUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doumsg/MD5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doumsg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doumsg/NewEcdhCrypt.java" afterDir="false" />
+    <list default="true" id="9dfe9887-13b0-462f-865a-d4a3e6fbe0c8" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +76,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681501359463</updated>
-      <workItem from="1681501361353" duration="3612000" />
+      <workItem from="1681501361353" duration="3810000" />
     </task>
+    <task id="LOCAL-00001" summary="初次提交">
+      <created>1681505370220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681505370220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

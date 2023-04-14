@@ -28,7 +28,7 @@ import java.security.spec.X509EncodedKeySpec;
 
 public class EcdhCrypt {
 
-    public static final String X509_SERVER_PUB_KEY = "3046301006072A8648CE3D020106052B8104001F03320004B431A6E5CBB02351DC542A505F4497FF64761A85F358B7B12F3FC884807686917786ECE2C2B7188CA2D57B64286D54C1\n";
+    public static final String X509_SERVER_PUB_KEY = "3046301006072A8648CE3D020106052B8104001F03320004928D8850673088B343264E0C6BACB8496D697799F37211DEB25BB73906CB089FEA9639B4E0260498B51A992D50813DA8";
     public static byte[] _g_share_key;
 
     public static byte[] _c_pri_key = new byte[0];
@@ -89,7 +89,7 @@ public class EcdhCrypt {
 
 ### 在Android上实现
 
-可以通过使用Android提供的Java加密库，实现ECDH算法。具体实现方法，可以参考上面的示例程序。需要注意，Android的加密库可能与Java标准库略有不同，因此需要根据具体库进行使用和调试。
+可以通过使用Android提供的Java加密库，实现ECDH算法。具体实现方法，可以参考上面的示例程序。
 
 ## 总结
 
